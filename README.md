@@ -1,7 +1,7 @@
 # Research of Mental Disorder Diagnosis (Multi Branches)  
 
 ### Introduction:  
-As the applications of ML algorithms in real life become increasingly common, ethical issues of AI solutions emerge especially in a sensitive human-related field such as the medical care industry. The output of the responsible AI framework proposed are images demonstrated to be in both high accuracy and high interpretability in field experiments with accuracy higher than 90% by prediction based on bare human eyes. More importantly, the images generated under the responsible framework enable experts in the field of mental health to diagnose mental disorders even if they do not know ML algorithms.
+As the real-life applications of machine learning become increasingly prevalent, ethical concerns surrounding AI solutions, especially in sensitive areas like healthcare, have gained significant attention. The responsible AI framework we proposed generates highly accurate and interpretable images, achieving over 90% accuracy in field experiments based solely on human visual assessments. More importantly, these images empower mental health experts to diagnose disorders without requiring any prior knowledge of ML algorithms, thus bridging the gap between AI and clinical expertise.
 
 ### Model Analysis:  
 Built and trained a CNN model in a PyTorch environment to perform multi-class classification on the 2D images, achieving a final accuracy around 86%.  
