@@ -25,6 +25,12 @@ Each image represents a patient, and it is split into different areas. Those are
 ### Reference:  
 **https://github.com/LeeGorden/Mental-Disorder-Diagnosis_Multi-Branches?tab=readme-ov-file**
 
+### Contact:
+
+Head research assistant: Gorden Li email: likehao1006@gmail.com  
+Research assistant: Charles He email:chuxuan@wustl.edu
+
+
 
 
 
