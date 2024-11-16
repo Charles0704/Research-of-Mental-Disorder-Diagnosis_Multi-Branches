@@ -5,7 +5,7 @@ As the applications of ML algorithms in real life become increasingly common, et
 
 ### Model Analysis:  
 Built and trained a CNN model in a PyTorch environment to perform multi-class classification on the 2D images, achieving a final accuracy around 86%.  
-<img src=https://github.com/user-attachments/assets/fe6d27ce-1c1d-4160-9fb3-abc2ca8f3c65 height="400px" width="800px"/>
+<img src=https://github.com/user-attachments/assets/fe6d27ce-1c1d-4160-9fb3-abc2ca8f3c65 height="500px" width="800px"/>
 
 
 ### Result:
