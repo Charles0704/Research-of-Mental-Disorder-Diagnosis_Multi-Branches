@@ -4,7 +4,7 @@
 As the real-life applications of machine learning become increasingly prevalent, ethical concerns surrounding AI solutions, especially in sensitive areas like healthcare, have gained significant attention. The responsible AI framework we proposed generates highly accurate and interpretable images, achieving over 90% accuracy in field experiments based solely on human visual assessments. More importantly, these images empower mental health experts to diagnose disorders without requiring any prior knowledge of ML algorithms, thus bridging the gap between AI and clinical expertise.
 
 ### Model Analysis (Sample dataset):  
-Built and trained a CNN model in a PyTorch environment to perform multi-class classification on the 2D images, achieving a final accuracy around 86%.  
+Built and trained a CNN model in a PyTorch environment to perform multi-class classification on the 2D images, achieving a final accuracy around 85%.  
 <img src=https://github.com/user-attachments/assets/fe6d27ce-1c1d-4160-9fb3-abc2ca8f3c65 height="500px" width="800px"/>
 
 
