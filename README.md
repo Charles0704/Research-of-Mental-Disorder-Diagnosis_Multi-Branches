@@ -6,6 +6,7 @@ As the real-life applications of machine learning become increasingly prevalent,
 ### Model Analysis (Sample dataset):  
 Built and trained a CNN model in a PyTorch environment to perform multi-class classification(all labels) on the 2D images, achieving a final accuracy around 86%.  
 <img src=https://github.com/user-attachments/assets/d0a35b91-ae40-4575-a551-0524248a7d2c5 height="500px" width="800px"/>
+![4ccd04b237ce753cb2a424c862f8787](https://github.com/user-attachments/assets/069f73df-0d8e-43c0-962b-d9429c3d0aba)
 
 
 ### Result:
