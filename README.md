@@ -27,7 +27,10 @@ Each image represents a patient and is divided into distinct areas, with each ar
 
 ### Future work:
 We are investigating methods to transform categorical variables into numerical representations and subsequently map them to individual pixels in an image.
-
+Some ideas:  
+Label Encoding  
+One-Hot Encoding  
+Embedding Encoding  
 
 
 ### Reference:  
