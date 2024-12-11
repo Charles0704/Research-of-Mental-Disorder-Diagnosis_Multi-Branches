@@ -25,6 +25,10 @@ Combining responsible AI, final images are as follows:
 
 Each image represents a patient and is divided into distinct areas, with each area indicating a specific mental disorder. Darker pixels within an area suggest a higher likelihood that the patient may have the corresponding disorder.
 
+### Future work:
+
+
+
 
 ### Reference:  
 **https://github.com/LeeGorden/Mental-Disorder-Diagnosis_Multi-Branches?tab=readme-ov-file**
