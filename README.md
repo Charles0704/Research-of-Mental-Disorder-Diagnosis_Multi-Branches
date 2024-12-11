@@ -26,7 +26,8 @@ Combining responsible AI, final images are as follows:
 Each image represents a patient and is divided into distinct areas, with each area indicating a specific mental disorder. Darker pixels within an area suggest a higher likelihood that the patient may have the corresponding disorder.
 
 ### Future work:
-We are investigating methods to transform categorical variables into numerical representations and subsequently map them to individual pixels in an image.
+We are investigating methods to transform categorical variables into numerical representations and subsequently map them to individual pixels in an image.  
+
 Some ideas:  
 Label Encoding  
 One-Hot Encoding  
