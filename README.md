@@ -1,7 +1,7 @@
 # Research of Mental Disorder Diagnosis (Multi Branches)  
 
 ### Introduction:  
-As the real-life applications of machine learning become increasingly prevalent, ethical concerns surrounding AI solutions, especially in sensitive areas like healthcare, have gained significant attention. The responsible AI framework we proposed generates highly accurate and interpretable images, achieving over 90% accuracy in field experiments based solely on human visual assessments. More importantly, these images empower mental health experts to diagnose disorders without requiring any prior knowledge of ML algorithms, thus bridging the gap between AI and clinical expertise.
+Nearly one billion people suffer from mental disorders globally, with 94% undiagnosed due to a shortage of clinicians. This study introduces MDscan, a tool for screening ten mental disorders using the SCL-90-R instrument, explainable AI, and the ShapRadiation algorithm. MDscan converts 90 indicators into interpretable diagnostic images, improving screening efficiency and transparency. Field tests show high accuracy, with F1 scores of 0.77 to 0.94, enhancing trust in AI for clinical use.
 
 ### Model Analysis (Sample dataset):  
 Built and trained a CNN model in a PyTorch environment to perform multi-class classification(all labels) on the 2D images, achieving a final accuracy around 86%.  
