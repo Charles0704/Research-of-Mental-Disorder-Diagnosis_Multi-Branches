@@ -31,7 +31,7 @@ We are investigating methods to transform categorical variables into numerical r
 Some ideas:  
 *Label Encoding  
 *One-Hot Encoding  
-*Embedding Encoding:  Word2Vec, TF-IDF, BERT, AlBert
+*Embedding:  Word2Vec, TF-IDF, BERT, AlBert
 
 
 ### Reference:  
