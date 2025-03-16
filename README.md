@@ -19,8 +19,6 @@ Based on responsible AI using CNN model trained, interpretation of pixels toward
 
 ![R2](https://github.com/user-attachments/assets/f9dadfaa-1363-47d6-a66d-2756d3b5baca)  
 
-Combining responsible AI, final images are as follows:  
-
 Each image represents a patient and is divided into distinct areas, with each area indicating a specific mental disorder. Darker pixels within an area suggest a higher likelihood that the patient may have the corresponding disorder.
 
 ### Future work:
