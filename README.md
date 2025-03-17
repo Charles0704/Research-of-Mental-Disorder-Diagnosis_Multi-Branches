@@ -30,8 +30,9 @@ Some ideas:
 * Embedding:  Word2Vec, TF-IDF, BERT, AlBert
 
 Result:  
+![Scanner](https://github.com/user-attachments/assets/1a3d13ab-3afa-4aec-8d99-cfd43d0b15cf)
 
-![Xscanner](https://github.com/user-attachments/assets/7bfa7724-29b0-4aae-9c9f-7b986c3cfe58)
+
 
 
 
