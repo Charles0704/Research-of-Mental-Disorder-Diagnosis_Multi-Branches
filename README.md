@@ -29,7 +29,7 @@ Some ideas:
 * One-Hot Encoding  
 * Embedding:  Word2Vec, TF-IDF, BERT, AlBert
 
-Here is the result:  
+Result:  
 
 ![Xscanner](https://github.com/user-attachments/assets/7bfa7724-29b0-4aae-9c9f-7b986c3cfe58)
 
