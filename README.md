@@ -25,9 +25,12 @@ Each image represents a patient and is divided into distinct areas, with each ar
 We are investigating methods to transform categorical variables into numerical representations and subsequently map them to individual pixels in an image.  
 
 Some ideas:  
-*Label Encoding  
-*One-Hot Encoding  
-*Embedding:  Word2Vec, TF-IDF, BERT, AlBert
+* Label Encoding  
+* One-Hot Encoding  
+* Embedding:  Word2Vec, TF-IDF, BERT, AlBert
+
+Here is the result:
+![Xscanner](https://github.com/user-attachments/assets/bf25768e-99ee-4ff5-9710-798e05487ed0)
 
 
 ### Reference:  
