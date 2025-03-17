@@ -31,7 +31,8 @@ Some ideas:
 
 Here is the result:  
 
-![Xscanner](https://github.com/user-attachments/assets/bf25768e-99ee-4ff5-9710-798e05487ed0)
+![Xscanner](https://github.com/user-attachments/assets/7bfa7724-29b0-4aae-9c9f-7b986c3cfe58)
+
 
 
 ### Reference:  
