@@ -29,7 +29,8 @@ Some ideas:
 * One-Hot Encoding  
 * Embedding:  Word2Vec, TF-IDF, BERT, AlBert
 
-Here is the result:
+Here is the result:  
+
 ![Xscanner](https://github.com/user-attachments/assets/bf25768e-99ee-4ff5-9710-798e05487ed0)
 
 
